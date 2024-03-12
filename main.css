@@ -1,0 +1,28 @@
+body{
+    background-color: #100049;
+    color:#f1af09;
+    font-family: 'Times New Roman', Times, serif;
+    padding: auto;
+    font-style: ;
+    
+}
+
+.list-item {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+input {
+    background-color: transparen;
+    color:rgb(25, 0, 255);
+    border-radius: 4px;
+    border-color:#00008B;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+pre{
+    font-family: 'Times New Roman', Times, serif;
+    padding-right: 100px;
+    padding-inline: 0px;
+}
+}
